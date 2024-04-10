@@ -1,11 +1,15 @@
 {
   "name": "shang-utils-duan",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "author": "duan",
-  "description": "common toolkit",
-  "keywords": ["utils", "format", "money", "phone"],
+  "description": "qrCode axios toolkit",
+  "keywords": [
+    "utils",
+    "format",
+    "money",
+    "phone"
+  ],
   "repository": {
-
     "type": "git",
     "url": "https://github.com/1960419485/shang-utils-duan.git"
   },
@@ -14,13 +18,10 @@
   "bugs": "https://github.com/xxx/shang-utils/issues",
   "main": "index.js",
   "scripts": {
-
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-
-  },
-  "devDependencies": {
-
+    "core-js": "^3.36.1",
+    "qrcode": "^1.5.3"
   }
 }
