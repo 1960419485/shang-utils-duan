@@ -1,26 +1,26 @@
 {
-  "name": "shang-utils-duan", // 包名，必须要独一无二
-  "version": "1.0.0", // 版本号
-  "author": "duan", // 作者
-  "description": "common toolkit", // 描述信息
-  "keywords": ["utils", "format", "money", "phone"], // 关键词，提升SEO
+  "name": "shang-utils-duan",
+  "version": "1.0.0",
+  "author": "duan",
+  "description": "common toolkit",
+  "keywords": ["utils", "format", "money", "phone"],
   "repository": {
-    // 代码托管位置
+
     "type": "git",
-    "url": "https://github.com/xxx/shang-utils"
+    "url": "https://github.com/1960419485/shang-utils-duan.git"
   },
-  "license": "ISC", // 许可证
-  "homepage": "https://your-package.org", // 包的主页或者文档首页
-  "bugs": "https://github.com/xxx/shang-utils/issues", // 用户问题反馈地址
-  "main": "index.js", // 入口文件
+  "license": "ISC",
+  "homepage": "https://your-package.org",
+  "bugs": "https://github.com/xxx/shang-utils/issues",
+  "main": "index.js",
   "scripts": {
-    // 存放可执行脚本
+
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    // 运行依赖
+
   },
   "devDependencies": {
-    // 开发依赖
+
   }
 }
